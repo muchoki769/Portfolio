@@ -1,6 +1,6 @@
 # Professional Portfolio Website
 
-![Portfolio Screenshot](screenshot.png)
+![Portfolio Screenshot](Portfolio.png)
 
 A responsive, interactive portfolio website built with HTML and CSS to showcase my skills, projects, and professional background.
 
