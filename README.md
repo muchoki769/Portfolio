@@ -33,8 +33,12 @@ A responsive, interactive portfolio website built with HTML and CSS to showcase 
 ---
 
 ## Deployment
+This project is deployed using [Vercel](https://portfolio-three-mu-22.vercel.app/).
+
+To deploy it yourself:
+
 1. Clone repo
-2. Upload to any static host (render)
+2. Upload to any static host (vercel)
 
 
 
